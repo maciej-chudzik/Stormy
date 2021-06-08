@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0E2756400B1B8B7EEEE5DC0F521E5B7B403A0F83",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0E2756400B1B8B7EEEE5DC0F521E5B7B403A0F83" : 0,
+    "805D7DC93CD8ECFD40C6AAB7D22E3481EAD497BA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8F71BEF0-9F0F-48C1-960A-0E04D9A3BB72",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0E2756400B1B8B7EEEE5DC0F521E5B7B403A0F83" : "Stormy\/",
+    "805D7DC93CD8ECFD40C6AAB7D22E3481EAD497BA" : "Stormy"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Stormy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Stormy.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/chudelini\/stormy.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0E2756400B1B8B7EEEE5DC0F521E5B7B403A0F83"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/treehouse\/iOSCourse_Stormy.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "805D7DC93CD8ECFD40C6AAB7D22E3481EAD497BA"
+    }
+  ]
+}
